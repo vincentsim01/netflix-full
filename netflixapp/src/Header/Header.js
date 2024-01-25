@@ -3,7 +3,7 @@ import './Header.css';
 
 const Headers = ()=>{
     return(
-      <header>
+      <div className="headercontainer">
 
         <div className="container-fluid">
         <div className="row">
@@ -54,7 +54,7 @@ const Headers = ()=>{
     
         </div>
       </div>
-      </header>
+      </div>
 
 
 

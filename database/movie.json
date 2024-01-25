@@ -1,0 +1,227 @@
+[
+    {
+        "movie_id":1,
+        "name":"Mission Impossible",
+        "country":"United States",
+        "rating":4.5,
+        "thumbnail":"https://i.ibb.co/7YSs3mm/MV5-BMTY4-MTUx-Mj-Q5-OV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTUy-Mzg5-Ng-V1-FMjpg-UX1000.jpg",
+        "duration_hour":2,
+        "genre":[
+            {
+                "genre_id":1,
+                "genre_name":"action"
+            },
+            {
+                "genre_id":2,
+                "genre_name":"drama"
+            },
+
+        ]
+
+    
+
+
+
+    },
+    {
+
+        "movie_id":2,
+        "name":"James Bond",
+        "country":"United States",
+        "rating":4.1,
+        "thumbnail":"https://i.ibb.co/7YSs3mm/MV5-BMTY4-MTUx-Mj-Q5-OV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTUy-Mzg5-Ng-V1-FMjpg-UX1000.jpg",
+        "duration_hour":1.8,
+        "genre":[
+            {
+                "genre_id":1,
+                "genre_name":"action"
+            },
+            {
+                "genre_id":2,
+                "genre_name":"drama"
+            },
+
+        ]
+
+
+    },
+    {
+
+        "movie_id":3,
+        "name":"Fast and Furious",
+        "country":"United States",
+        "rating":4.4,
+        "thumbnail":"https://i.ibb.co/7YSs3mm/MV5-BMTY4-MTUx-Mj-Q5-OV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTUy-Mzg5-Ng-V1-FMjpg-UX1000.jpg",
+        "duration_hour":2.3,
+        "genre":[
+            {
+                "genre_id":1,
+                "genre_name":"action"
+            },
+            {
+                "genre_id":2,
+                "genre_name":"drama"
+            },
+            {
+                "genre_id":3,
+                "genre_name":"racing"
+            }
+
+        ]
+
+
+    },
+    {
+
+        "movie_id":4,
+        "name":"La La Land",
+        "country":"United States",
+        "rating":4.2,
+        "thumbnail":"https://i.ibb.co/7YSs3mm/MV5-BMTY4-MTUx-Mj-Q5-OV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTUy-Mzg5-Ng-V1-FMjpg-UX1000.jpg",
+        "duration_hour":1.5,
+        "genre":[
+            {
+                "genre_id":4,
+                "genre_name":"Romance"
+            },
+            {
+                "genre_id":2,
+                "genre_name":"drama"
+            },
+            {
+                "genre_id":5,
+                "genre_name":"Musical"
+            }
+
+        ]
+
+
+    },
+    {
+
+        "movie_id":5,
+        "name":"Les Miserables",
+        "country":"United States",
+        "rating":4.3,
+        "thumbnail":"https://i.ibb.co/7YSs3mm/MV5-BMTY4-MTUx-Mj-Q5-OV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTUy-Mzg5-Ng-V1-FMjpg-UX1000.jpg",
+        "duration_hour":2,
+        "genre":[
+            {
+                "genre_id":4,
+                "genre_name":"Romance"
+            },
+            {
+                "genre_id":2,
+                "genre_name":"drama"
+            },
+            {
+                "genre_id":5,
+                "genre_name":"Musical"
+            }
+
+        ]
+
+
+    },
+    {
+
+        "movie_id":5,
+        "name":"The Dark Knight",
+        "country":"United States",
+        "rating":3.9,
+        "thumbnail":"https://i.ibb.co/7YSs3mm/MV5-BMTY4-MTUx-Mj-Q5-OV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTUy-Mzg5-Ng-V1-FMjpg-UX1000.jpg",
+        "duration_hour":2.5,
+        "genre":[
+            {
+                "genre_id":1,
+                "genre_name":"Action"
+            },
+            {
+                "genre_id":6,
+                "genre_name":"Fantasy"
+            }
+        ]
+
+
+    },
+
+    {
+
+        "movie_id":6,
+        "name":"Gran Turismo",
+        "country":"United States",
+        "rating":3.6,
+        "thumbnail":"https://i.ibb.co/7YSs3mm/MV5-BMTY4-MTUx-Mj-Q5-OV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTUy-Mzg5-Ng-V1-FMjpg-UX1000.jpg",
+        "duration_hour":1.4,
+        "genre":[
+            {
+                "genre_id":1,
+                "genre_name":"Action"
+            },
+            {
+                "genre_id":3,
+                "genre_name":"Racing"
+            }
+        ]
+
+
+    },
+    {
+
+        "movie_id":7,
+        "name":"Star Wars",
+        "country":"United States",
+        "rating":3.3,
+        "thumbnail":"https://i.ibb.co/7YSs3mm/MV5-BMTY4-MTUx-Mj-Q5-OV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTUy-Mzg5-Ng-V1-FMjpg-UX1000.jpg",
+        "duration_hour":1.4,
+        "genre":[
+            {
+                "genre_id":6,
+                "genre_name":"Fantasy"
+            },
+            {
+                "genre_id":1,
+                "genre_name":"Action"
+            },
+            {
+                "genre_id":2,
+                "genre_name":"drama"
+            }
+
+        ]
+
+
+    },
+    {
+
+        "movie_id":8,
+        "name":"The Godfater",
+        "country":"United States",
+        "rating":3.1,
+        "thumbnail":"https://i.ibb.co/7YSs3mm/MV5-BMTY4-MTUx-Mj-Q5-OV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTUy-Mzg5-Ng-V1-FMjpg-UX1000.jpg",
+        "duration_hour":3,
+        "genre":[
+            {
+                "genre_id":2,
+                "genre_name":"Drama"
+            },
+            {
+                "genre_id":1,
+                "genre_name":"Action"
+            }
+
+        ]
+
+
+    }
+
+
+
+
+
+
+
+
+]
+
+

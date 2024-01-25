@@ -2,7 +2,7 @@ body{
     background-color: red;
 }
 
-header{
+.headercontainer{
     background-image: url('https://i.ibb.co/vkdFWFM/wallpaper.png');
     padding:5%;
 
