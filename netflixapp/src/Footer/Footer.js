@@ -4,9 +4,10 @@ import './Footer.css';
 
 const Footer = ()=>{
     return(
+        <>
 
 
-        <Footer>
+        <div className="FooterContainer">
 
         <div id="QuestionsCall">Questions? Call 800 852 6334</div>
         <br></br>
@@ -59,7 +60,8 @@ const Footer = ()=>{
 
 
 
-      </Footer>
+      </div>
+      </>
     )
 
     
