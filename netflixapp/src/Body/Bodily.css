@@ -1,0 +1,170 @@
+body{
+    background-color: red;
+}
+
+header{
+    background-image: url('https://i.ibb.co/vkdFWFM/wallpaper.png');
+    padding:5%;
+
+}
+
+#logoHeader{
+    margin:3%;
+
+    display:inline-block;
+    width:100px;
+}
+
+.headerLeft{
+    text-align:left;
+    margin:3%;
+
+}
+
+.headerRight{
+    text-align:right;
+    margin:3%;
+
+}
+
+
+#languageDropdownHeader{
+
+}
+
+#unlimitedFilms{
+    color:white;
+    text-align:center;
+    padding-top:15%;
+
+}
+
+#watchAnywhere{
+    color:white;
+    text-align:center;
+
+}
+
+#readyToWatch{
+    color:white;
+    text-align:center;
+
+}
+
+.headerSignUp{
+
+    display:inline;
+    text-align:center;
+    color:white;
+}
+
+.lastHeader{
+ 
+    text-align:center;
+    margin-bottom:100px;
+}
+
+#FAQContainer{
+    padding:20px;
+    background-color: black;
+    text-align: center;
+}
+
+#enjoyContainer{
+    background-color: black;
+    color:white;
+    text-align:center;
+    padding-top:5%;
+    padding-bottom:5%;
+
+
+}
+
+
+#DownloadProgramme{
+    background-color: black;
+    color:white;
+    text-align:center;
+    padding-top:5%;
+    padding-bottom:5%;
+
+
+}
+
+#watchEverywhere{
+    background-color: black;
+    color:white;
+    text-align:center;
+    padding-top:5%;
+    padding-bottom:5%;
+
+
+}
+
+#children{
+    background-color: black;
+    color:white;
+    text-align:center;
+    padding-top:5%;
+    padding-bottom:5%;
+
+
+}
+
+#downloadimagecontainer{
+    
+}
+
+.watchonsmart{
+    padding-top:5%;
+}
+
+.accordiolo{
+    background-color: black;
+    color:white;
+}
+
+.accordiolo2{
+    background-color: grey;
+    color:white;
+}
+
+#tvgif{
+    width:400px;
+}
+
+#signupContainer{
+    text-align:center;
+    background-color: black;
+    padding:80px;
+}
+
+#signupFormContainer{
+    margin:15px;
+}
+
+#readyToWatch2{
+    color: white;
+    font-size: 30px;
+}
+
+#email{
+    margin:25px;
+}
+
+#QuestionsCall{
+    font-size: 30px;
+}
+
+.divider{
+    height:20px;
+    background-color: rgba(161,152,151,1);
+
+
+}
+
+/* footer{
+    background-color: black;
+    color:white;
+    padding:50px;
+} */
