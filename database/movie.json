@@ -15,6 +15,10 @@
                 "genre_id":2,
                 "genre_name":"drama"
             },
+            {
+                "genre_id":7,
+                "genre_name":"Adventure"
+            }
 
         ]
 
@@ -29,7 +33,7 @@
         "name":"James Bond",
         "country":"United States",
         "rating":4.1,
-        "thumbnail":"https://i.ibb.co/7YSs3mm/MV5-BMTY4-MTUx-Mj-Q5-OV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTUy-Mzg5-Ng-V1-FMjpg-UX1000.jpg",
+        "thumbnail":"https://i.ibb.co/W0drnnW/s-l1600.jpg",
         "duration_hour":1.8,
         "genre":[
             {
@@ -40,18 +44,25 @@
                 "genre_id":2,
                 "genre_name":"drama"
             },
+            {
+                "genre_id":1000,
+                "genre_name":"Blank"
+            }
 
         ]
 
 
     },
+
+
+
     {
 
         "movie_id":3,
         "name":"Fast and Furious",
         "country":"United States",
         "rating":4.4,
-        "thumbnail":"https://i.ibb.co/7YSs3mm/MV5-BMTY4-MTUx-Mj-Q5-OV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTUy-Mzg5-Ng-V1-FMjpg-UX1000.jpg",
+        "thumbnail":"https://i.ibb.co/pxqWCL1/fast.jpg",
         "duration_hour":2.3,
         "genre":[
             {
@@ -77,7 +88,7 @@
         "name":"La La Land",
         "country":"United States",
         "rating":4.2,
-        "thumbnail":"https://i.ibb.co/7YSs3mm/MV5-BMTY4-MTUx-Mj-Q5-OV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTUy-Mzg5-Ng-V1-FMjpg-UX1000.jpg",
+        "thumbnail":"https://i.ibb.co/qxPpQ6x/lalaland.jpg",
         "duration_hour":1.5,
         "genre":[
             {
@@ -97,13 +108,15 @@
 
 
     },
+
+
     {
 
         "movie_id":5,
         "name":"Les Miserables",
         "country":"United States",
         "rating":4.3,
-        "thumbnail":"https://i.ibb.co/7YSs3mm/MV5-BMTY4-MTUx-Mj-Q5-OV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTUy-Mzg5-Ng-V1-FMjpg-UX1000.jpg",
+        "thumbnail":"https://i.ibb.co/3dtZwVN/Les-miserables-movie-poster1.jpg",
         "duration_hour":2,
         "genre":[
             {
@@ -129,7 +142,7 @@
         "name":"The Dark Knight",
         "country":"United States",
         "rating":3.9,
-        "thumbnail":"https://i.ibb.co/7YSs3mm/MV5-BMTY4-MTUx-Mj-Q5-OV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTUy-Mzg5-Ng-V1-FMjpg-UX1000.jpg",
+        "thumbnail":"https://i.ibb.co/c8zcVCz/tdk.jpgg",
         "duration_hour":2.5,
         "genre":[
             {
@@ -139,6 +152,10 @@
             {
                 "genre_id":6,
                 "genre_name":"Fantasy"
+            },
+            {
+                "genre_id":7,
+                "genre_name":"Adventure"
             }
         ]
 
@@ -151,7 +168,7 @@
         "name":"Gran Turismo",
         "country":"United States",
         "rating":3.6,
-        "thumbnail":"https://i.ibb.co/7YSs3mm/MV5-BMTY4-MTUx-Mj-Q5-OV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTUy-Mzg5-Ng-V1-FMjpg-UX1000.jpg",
+        "thumbnail":"https://i.ibb.co/0qKP5wV/granturismod.jpg",
         "duration_hour":1.4,
         "genre":[
             {
@@ -162,17 +179,25 @@
                 "genre_id":3,
                 "genre_name":"Racing"
             }
+            ,
+            {
+                "genre_id":1000,
+                "genre_name":"Blank"
+            }
         ]
 
 
     },
+
+
+ 
     {
 
         "movie_id":7,
         "name":"Star Wars",
         "country":"United States",
         "rating":3.3,
-        "thumbnail":"https://i.ibb.co/7YSs3mm/MV5-BMTY4-MTUx-Mj-Q5-OV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTUy-Mzg5-Ng-V1-FMjpg-UX1000.jpg",
+        "thumbnail":"https://i.ibb.co/mh9ghr4/starwars.jpg",
         "duration_hour":1.4,
         "genre":[
             {
@@ -195,10 +220,10 @@
     {
 
         "movie_id":8,
-        "name":"The Godfater",
+        "name":"The Godfather",
         "country":"United States",
         "rating":3.1,
-        "thumbnail":"https://i.ibb.co/7YSs3mm/MV5-BMTY4-MTUx-Mj-Q5-OV5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTUy-Mzg5-Ng-V1-FMjpg-UX1000.jpg",
+        "thumbnail":"https://i.ibb.co/bmwtkg5/godfather.jpg",
         "duration_hour":3,
         "genre":[
             {
@@ -209,11 +234,75 @@
                 "genre_id":1,
                 "genre_name":"Action"
             }
+            ,
+            {
+                "genre_id":1000,
+                "genre_name":"Blank"
+            }
+
+        ]
+
+
+    },
+
+    {
+
+        "movie_id":9,
+        "name":"Indiana Jones",
+        "country":"United States",
+        "rating":3.1,
+        "thumbnail":"https://i.ibb.co/ZXKh6tP/indianajones.jpg",
+        "duration_hour":3,
+        "genre":[
+            {
+                "genre_id":7,
+                "genre_name":"Adventure"
+            },
+            {
+                "genre_id":1,
+                "genre_name":"Action"
+            },
+            {
+                "genre_id":3,
+                "genre_name":"Racing"
+            }
 
         ]
 
 
     }
+
+
+    ,
+    {
+
+        "movie_id":10,
+        "name":"Avatar",
+        "country":"United States",
+        "rating":4,
+        "thumbnail":"https://i.ibb.co/8NLRgsR/avatar.jpg",
+        "duration_hour":3,
+        "genre":[
+            {
+                "genre_id":6,
+                "genre_name":"Fantasy"
+            },
+            {
+                "genre_id":1,
+                "genre_name":"Action"
+            }
+            ,
+            {
+                "genre_id":1000,
+                "genre_name":"Blank"
+            }
+
+
+        ]
+
+
+    }
+
 
 
 
