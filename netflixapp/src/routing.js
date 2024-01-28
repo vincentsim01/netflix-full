@@ -5,6 +5,7 @@ import Home from './Home/home';
 import Main from './main';
 import Headers from './Header/Header';
 import Footer from './Footer/Footer';
+import Horizontal from './Horizontal/horizontal';
 
 const Routing= ()=>{
 
@@ -15,6 +16,7 @@ const Routing= ()=>{
             <Routes>
                 <Route path='/' element={<Main/>}/>
                     <Route index element={<Home/>}/>
+                    <Route path="horizontal" element={<Horizontal/>}/>
 
 
             </Routes>

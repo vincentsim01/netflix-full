@@ -35,7 +35,6 @@ const Headers = ()=>{
     
     
         </div>
-        <Link to="www.google.com">Go Google</Link>
     
         <div className="row">
           <h4 id="readyToWatch">Ready to watch? Enter your email to create or restart your membership.</h4>
