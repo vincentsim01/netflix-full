@@ -11,6 +11,20 @@ const Headers = ()=>{
           <div className="col-lg col-md col-sm-3 headerLeft">
             <img src="https://i.ibb.co/hVnQZTZ/netflix-logo-png-2582.png" id="logoHeader"></img>
           </div>
+          <Link to="/">
+            <span className="midheader">
+
+            Home
+   
+            </span>
+          </Link>
+          <Link to="horizontal">
+            <span className="midheader">
+
+            Movie List
+   
+            </span>
+          </Link>
           <div className="col-lg col-md col-sm-6 headerRight">
             <select id="languageDropdownHeader">
               <option value="English">English</option>
@@ -24,7 +38,7 @@ const Headers = ()=>{
         </div>
     
     
-        <div className="row">
+        {/* <div className="row">
           <h1 id="unlimitedFilms">Unlimited films, TV programmes and more</h1>
     
     
@@ -53,7 +67,7 @@ const Headers = ()=>{
           </div>
     
     
-        </div>
+        </div> */}
       </div>
       </div>
 

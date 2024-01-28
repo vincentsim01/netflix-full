@@ -1,4 +1,5 @@
 import React,{useState,useEffect} from 'react';
+import './horizontal.css';
 
 
 import {useParams,useSearchParams,useNavigate,Link, Navigate} from 'react-router-dom';
@@ -23,13 +24,19 @@ const Horizontal = () =>{
 
 
     return(
+        <div className="horizontalcontainer">
+        <h1>Our Movie List</h1>
         <div>
-            This is Horizontal
 
-            {movielist.map((rai)=>{return (<div><img src={rai.thumbnail}></img></div>)})}
+
+
+
+            {movielist.map((rai)=>{return (<span className="horizontalimagecontainer"><img src={rai.thumbnail} className="horizontalimage"></img></span>)})}
 
 
         </div>
+        </div>
+
 
     )
 }

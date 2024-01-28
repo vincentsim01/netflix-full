@@ -1,0 +1,15 @@
+.horizontalimage{
+    height:300px;
+    margin:15px;
+    border-radius:15px;
+    display:inline;
+}
+
+.horizontalimagecontainer{
+    display:inline;
+}
+
+.horizontalcontainer{
+    color:white;
+    background-color: black;
+}

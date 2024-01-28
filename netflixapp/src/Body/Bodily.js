@@ -1,5 +1,6 @@
 import React from 'react';
 import './Bodily.css';
+import Bannery from '../Banner/banner';
 
 const Bodily =() =>{
     return(
@@ -8,6 +9,8 @@ const Bodily =() =>{
 <div class="divider">
 
 </div>
+
+<Bannery/>
 
 
 <div id="enjoyContainer">
