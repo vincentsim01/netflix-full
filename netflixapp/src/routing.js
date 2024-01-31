@@ -6,6 +6,8 @@ import Main from './main';
 import Headers from './Header/Header';
 import Footer from './Footer/Footer';
 import Horizontal from './Horizontal/horizontal';
+import Register from '../src/login/registerComponent';
+import Login from '../src/login/loginComponent';
 
 const Routing= ()=>{
 
@@ -17,6 +19,8 @@ const Routing= ()=>{
                 <Route path='/' element={<Main/>}/>
                     <Route index element={<Home/>}/>
                     <Route path="horizontal" element={<Horizontal/>}/>
+                    <Route path="register" element={<Register/>}/>
+                    <Route path="login" element={<Login/>}/>
 
 
             </Routes>

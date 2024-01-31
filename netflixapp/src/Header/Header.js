@@ -32,8 +32,17 @@ const Headers = ()=>{
               <option value="Portuguese">Portuguese</option>
               <option value="Spanish">Spanish</option>
             </select>
+            <Link to='Login'>
             
             <button type="button" id="headerLoginButton" className="btn btn-primary">Login</button>
+
+            </Link>
+
+            <Link to='Register'>
+            
+            <button type="button" id="headerRegisterButton" className="btn btn-primary">Register</button>
+
+            </Link>
           </div>
         </div>
     
