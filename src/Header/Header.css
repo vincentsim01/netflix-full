@@ -3,8 +3,9 @@ body{
 }
 
 .headercontainer{
-    background-image: url('https://i.ibb.co/vkdFWFM/wallpaper.png');
+    background-image: url(../../public/homepage.PNG);
     padding:5%;
+    background-size: cover;
 
 }
 

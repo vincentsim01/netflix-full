@@ -5,8 +5,6 @@ const Main = () =>{
     return(
         <Outlet/>
     )
-
-
 }
 
 export default Main;
